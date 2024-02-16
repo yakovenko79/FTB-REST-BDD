@@ -1,0 +1,31 @@
+15.02.2024 18:48:36.545 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([12]) 
+15.02.2024 18:48:37.090 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 19:01:14.298 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([12]) 
+15.02.2024 19:01:14.832 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 19:01:15.319 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 20:48:25.224 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([12]) 
+15.02.2024 20:48:25.764 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 20:48:26.238 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 21:41:41.101 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([12]) 
+15.02.2024 21:41:41.641 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 21:41:42.104 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 23:33:52.478 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "TestModel",
+  "numberOfSeats" : 11
+}
+15.02.2024 23:33:52.964 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 23:33:53.439 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 23:33:53.522 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1194]) 
+15.02.2024 23:33:53.541 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 23:33:53.768 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 23:52:07.752 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "TestModel",
+  "numberOfSeats" : 11
+}
+15.02.2024 23:52:08.221 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 23:52:08.692 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 23:52:08.787 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1195]) 
+15.02.2024 23:52:08.809 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+15.02.2024 23:52:09.039 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
