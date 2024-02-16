@@ -68,3 +68,28 @@
 17.02.2024 01:10:31.716 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1215]) 
 17.02.2024 01:10:31.734 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
 17.02.2024 01:10:31.962 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+17.02.2024 02:40:35.615 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([12]) 
+17.02.2024 02:40:36.645 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "TestModel",
+  "numberOfSeats" : 11
+}
+17.02.2024 02:40:36.930 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1217]) 
+17.02.2024 02:40:37.174 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "TestModel",
+  "numberOfSeats" : null
+}
+17.02.2024 02:40:37.421 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1218]) 
+17.02.2024 02:40:37.658 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "",
+  "numberOfSeats" : 11
+}
+17.02.2024 02:40:37.901 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1219]) 
+17.02.2024 02:40:38.135 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "TestModel",
+  "numberOfSeats" : 11
+}
+17.02.2024 02:40:38.386 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1220]) 
