@@ -93,6 +93,9 @@ public class AircraftsSteps {
         assertThat(lastResponse.getModel())
                 .as("Seems Aircraft response contained unexpected model value.")
                 .isEqualTo(model);
+        assertThat(lastResponse.getNumberOfSeats())
+                .as("Seems Aircraft response contained unexpected model value.")
+                .isEqualTo(null);
     }
 
 }

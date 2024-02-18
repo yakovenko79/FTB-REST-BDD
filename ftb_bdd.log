@@ -93,3 +93,28 @@
   "numberOfSeats" : 11
 }
 17.02.2024 02:40:38.386 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1220]) 
+18.02.2024 19:01:13.626 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([12]) 
+18.02.2024 19:01:14.690 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "TestModel",
+  "numberOfSeats" : 11
+}
+18.02.2024 19:01:14.956 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1262]) 
+18.02.2024 19:01:15.197 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "TestModel",
+  "numberOfSeats" : null
+}
+18.02.2024 19:01:15.441 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1263]) 
+18.02.2024 19:01:15.682 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "",
+  "numberOfSeats" : 11
+}
+18.02.2024 19:01:15.926 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1264]) 
+18.02.2024 19:01:16.156 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending POST for: aircrafts [] | Body = {
+  "manufacturer" : "Test",
+  "model" : "TestModel",
+  "numberOfSeats" : 11
+}
+18.02.2024 19:01:16.404 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1265]) 
